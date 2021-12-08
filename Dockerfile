@@ -1,1 +1,1 @@
-FROM renovate/renovate:28.26.0-slim
+FROM renovate/renovate:29.26.0-slim
